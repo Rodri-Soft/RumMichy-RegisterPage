@@ -16,8 +16,7 @@ namespace RegisterPage
         public bool SendMail(string to, string asunto, string body)
         {
             bool result = true;
-            //string from = "RumMichy@outlook.com";
-            string from = "sanchezbass021221@hotmail.com";
+            string from = "RumMichy@outlook.com";           
             string displayName = "RumMichy";
             try
             {
@@ -25,8 +24,7 @@ namespace RegisterPage
                 mail.From = new MailAddress(from, displayName);
                 mail.To.Add(to);
 
-                mail.Subject = asunto;
-                //mail.Body = body;
+                mail.Subject = asunto;                
                 mail.IsBodyHtml = true;
 
                 AlternateView htmlView = AlternateView.CreateAlternateViewFromString(body, null, "text/html");
@@ -58,8 +56,7 @@ namespace RegisterPage
                 client.EnableSsl = true;
                 client.UseDefaultCredentials = false;
 
-                //string emailPassword = Decrypt("/U68x4k0VsCzSS+9YB/3lA==");
-                string emailPassword = "RodrigoBass12";
+                string emailPassword = Decrypt("/U68x4k0VsCzSS+9YB/3lA==");    
 
                 client.Credentials = new NetworkCredential(from, emailPassword);
                 client.Send(mail);                                                    

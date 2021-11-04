@@ -58,8 +58,7 @@ namespace RegisterPage
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-            var nicknameExist = GetUniqueNickname();
-                
+            var nicknameExist = GetUniqueNickname();                
 
             if (nicknameExist.Count() != 0)
             {
