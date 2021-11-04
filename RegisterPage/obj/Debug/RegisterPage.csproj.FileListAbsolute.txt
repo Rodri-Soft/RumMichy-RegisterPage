@@ -1,0 +1,90 @@
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\bin\Debug\RegisterPage.exe.config
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\bin\Debug\RegisterPage.exe
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\bin\Debug\RegisterPage.pdb
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\App.g.cs
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage_MarkupCompile.cache
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage_MarkupCompile.lref
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.g.resources
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.Properties.Resources.resources
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.csproj.GenerateResource.cache
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.exe
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.pdb
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\ButtonStyles.baml
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\App.baml
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\bin\Debug\es-MX\RegisterPage.resources.dll
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.Properties.Langs.Lang.resources
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\RegisterPage.Properties.Langs.Lang.es-MX.resources
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage\RegisterPage\obj\Debug\es-MX\RegisterPage.resources.dll
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\RegisterPage.exe.config
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\RegisterPage.exe
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\RegisterPage.pdb
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\es-MX\RegisterPage.resources.dll
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\ButtonStyles.baml
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\App.g.cs
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage_MarkupCompile.cache
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage_MarkupCompile.lref
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\App.baml
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.g.resources
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.Properties.Langs.Lang.resources
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.Properties.Resources.resources
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.Properties.Langs.Lang.es-MX.resources
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.csproj.GenerateResource.cache
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\es-MX\RegisterPage.resources.dll
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.exe
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.pdb
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage_Content.g.cs
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.csproj.CopyComplete
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\FluentValidation.dll
+C:\Users\Rodrigo Sanchez\source\repos\RegisterPage2\RegisterPage\bin\Debug\FluentValidation.xml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\RegisterPage.exe.config
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\RegisterPage.exe
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\RegisterPage.pdb
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\es-MX\RegisterPage.resources.dll
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\FluentValidation.dll
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\FluentValidation.xml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\ButtonStyles.baml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\MainWindow.g.cs
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\App.g.cs
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage_Content.g.cs
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage_MarkupCompile.cache
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage_MarkupCompile.lref
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\App.baml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\MainWindow.baml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.g.resources
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.Properties.Langs.Lang.resources
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.Properties.Resources.resources
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.Properties.Langs.Lang.es-MX.resources
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.csproj.GenerateResource.cache
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\es-MX\RegisterPage.resources.dll
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.csproj.CopyComplete
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.exe
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\RegisterPage.pdb
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\MaterialDesignColors.dll
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\LogIn.g.cs
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\LogIn.baml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\MessageBoxCustom.baml
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\MessageBoxCustom.g.cs
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\MessageBoxConfirmation.g.cs
+C:\Users\Rodrigo Sanchez\OneDrive - Universidad Veracruzana\C#\RegisterPage2\RegisterPage\obj\Debug\MessageBoxConfirmation.baml
